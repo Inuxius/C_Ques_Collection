@@ -1,2 +1,2 @@
-# C_Ques_Collection
-Should I say a collection of questions I practiced when I was learning C.
+# Programming Practice Questions
+Soon to be ordered according the topics.
